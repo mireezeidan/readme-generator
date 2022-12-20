@@ -11,33 +11,40 @@ function renderLicenseBadge(license) {
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  return `[go to license](#License) \n`;
+  return `## [License](#license) \n`;
 }
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  return `## License
+  return `# License
   This project is licensed under ${license}`;
 }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+  # Table of Contents
+  ## [Description](#description)
+  ## [Installation](#installation)
+  ## [Usage](#usage)
   ${renderLicenseLink(data.license)}
-  ## Description
+  ## [Contributing](#contributing)
+  ## [Tests](#tests)
+
+  # Description
   ${data.description}
-  ## Installation
+  # Installation
   ${data.installation}
-  ## Usage
+  # Usage
   ${data.usage}
-  ## Contributing
+  # Contributing
   ${data.contribution}
-  ## Tests
+  # Tests
   ${data.tests}
 
-${renderLicenseBadge(data.license)}
-${renderLicenseSection(data.license)}
+  ${renderLicenseSection(data.license)}
+  ${renderLicenseBadge(data.license)}
 `;
 }
 

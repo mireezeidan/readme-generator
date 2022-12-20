@@ -1,18 +1,25 @@
-# mz
-  [go to license](#License) 
+# mireezeidan
+  # Table of Contents
+  ## [Description](#description)
+  ## [Installation](#installation)
+  ## [Usage](#usage)
+  ## [License](#license) 
 
-  ## Description
-  d
-  ## Installation
-  i
-  ## Usage
-  u
-  ## Contributing
-  c
-  ## Tests
-  t
+  ## [Contributing](#contributing)
+  ## [Tests](#tests)
 
-<img src="https://img.shields.io/badge/license-MIT-blue.svg"> 
+  # Description
+  jk
+  # Installation
+  installation
+  # Usage
+  usage
+  # Contributing
+  contribution
+  # Tests
+  testing
 
-## License
-  This project is licensed under MIT
+  # License
+  This project is licensed under Bower
+  <img src="https://img.shields.io/badge/license-Bower-blue.svg"> 
+
