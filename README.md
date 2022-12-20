@@ -1,14 +1,18 @@
 # mz
+  [go to license](#License) 
+
   ## Description
-  this is my readme
+  d
   ## Installation
-  install this web app
+  i
   ## Usage
-  use it
+  u
   ## Contributing
-  feel free to contribute 
+  c
   ## Tests
-  dont test it please
+  t
 
-<img alt="GitHub" src="https://img.shields.io/github/license/mireezeidan/readme-generator?color=blue">
+<img src="https://img.shields.io/badge/license-MIT-blue.svg"> 
 
+## License
+  This project is licensed under MIT
