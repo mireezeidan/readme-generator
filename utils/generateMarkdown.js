@@ -45,6 +45,10 @@ function generateMarkdown(data) {
 
   ${renderLicenseSection(data.license)}
   ${renderLicenseBadge(data.license)}
+  # Questions
+  Click here to view my [Github](https://github.com/${data.title}) 
+  
+  To reach me with further questions please email me at ${data.email}
 `;
 }
 

@@ -9,17 +9,21 @@
   ## [Tests](#tests)
 
   # Description
-  jk
+  s
   # Installation
-  installation
+  s
   # Usage
-  usage
+  s
   # Contributing
-  contribution
+  s
   # Tests
-  testing
+  s
 
   # License
-  This project is licensed under Bower
-  <img src="https://img.shields.io/badge/license-Bower-blue.svg"> 
+  This project is licensed under APM
+  <img src="https://img.shields.io/badge/license-APM-blue.svg"> 
 
+  # Questions
+  Click here to view my [Github](https://github.com/mireezeidan) 
+  
+  To reach me with further questions please email me at d

@@ -41,6 +41,11 @@ const questions = [
     name: "license",
     choices: ["MIT", "APM", "Bower"],
   },
+  {
+    type: "input",
+    message: "Please enter your email.",
+    name: "email",
+  },
 ];
 
 // TODO: Create a function to write README file
